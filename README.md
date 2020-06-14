@@ -6,3 +6,8 @@ Useful stickers for open source compliance activities
 
 Copyright (c) Soim Kim\
 SPDX-License-Identifier: CC-BY-2.0
+
+# Thumbnail
+
+![thumbnail](./png_images/thumbnail.png)
+
